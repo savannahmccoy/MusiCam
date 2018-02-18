@@ -4,13 +4,16 @@
 :Revision: version#
 :License: Public Domain
 
-= Project: {Project}
+= Project: {MusiCAM}
 
-Describe your project
+The dorm security we've all been waiting for
 
 == Step 1: Installation
-Please describe the steps to install this project.
 
+Upload the .ino code to your arduino and run the python program on your raspi
+
+Info below this line is TBF
+-----------------------------------------------------------------------------
 For example:
 
 1. Open this file
