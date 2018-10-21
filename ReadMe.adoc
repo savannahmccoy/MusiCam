@@ -12,7 +12,8 @@ The dorm security we've all been waiting for
 
 Upload the .ino code to your arduino and run the python program on your raspi
 
-Info below this line is TBF
+= Info below this line is TBF
+
 -----------------------------------------------------------------------------
 For example:
 
